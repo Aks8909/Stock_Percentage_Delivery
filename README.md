@@ -1,4 +1,4 @@
-# Stock_Percentage_Delivery
+# Stock_Delivery_Percentage
 Hi! in this ML project I have made a stock percentage delivery predictor using regression concepts<br/>
 
 <p>Stock percentage delivery is a financial term that indicates the proportion of shares traded in a particular
