@@ -6,6 +6,6 @@ stock that is actually delivered and settled through physical transfer of shares
 through intraday trading or speculative trading. In other words, it measures the percentage of shares that 
 change ownership and are moved from the seller's demat account to the buyer's demat account as a result of 
 a trade.</p>
-<br/>
+
 The delivery percentage is an important metric for investors and traders because it can provide insights 
 into the level of investor confidence and the overall health of a stock or the market.<br/>
